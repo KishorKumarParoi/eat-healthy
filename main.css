@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+.Top-Banner{
+    margin: 3%;
+}
+.flexible-container{
+    display: flex;
+}
+.headline{
+    margin-top: 60px;
+}
+.half-width h1{
+    font-size: 50px;
+    font-weight: 700px;
+    color: blue;
+    margin: 0;
+    padding: 10px;
+}
+h1 span{
+    color: orange;
+}
+
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h3{
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+
+.middle{
+    background: rgba(252, 143, 73, 0.1);
+    background-image: url(eat-healthy/images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.middle-width{
+    width: 50%;
+}
+.middle-width img{
+    width: 50%;
+    padding: 10%;
+    padding-right: 0;
+    margin-left: 15px;
+}
+.middle-info{
+    padding: 10%;
+    padding-left: 0;
+}
+.middle-width h1{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.middle-width p{
+    margin-bottom: 70px;
+}
